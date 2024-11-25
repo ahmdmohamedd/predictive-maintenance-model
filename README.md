@@ -53,12 +53,7 @@ To run this project, ensure you have the following:
     cd predictive-maintenance-model
     ```
 
-2. **Install the required libraries**:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. **Run the Jupyter Notebook**:
+2. **Run the Jupyter Notebook**:
     ```bash
     jupyter notebook predictive_maintenance_system.ipynb
     ```
